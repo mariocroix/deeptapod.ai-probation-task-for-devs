@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/mari/Desktop/probation_task Select CMakeLists.txt
